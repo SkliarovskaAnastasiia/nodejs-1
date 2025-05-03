@@ -1,4 +1,5 @@
 import readData from '../utils/readData.js';
+import writeData from '../utils/writeData.js';
 
 const modifyProducts = async () => {
   const allProducts = await readData();
@@ -10,7 +11,7 @@ const modifyProducts = async () => {
   });
   console.log(modifyProducts);
 
-  return modifyProducts;
+  await writeData(modifyProducts);
 };
 
 modifyProducts();

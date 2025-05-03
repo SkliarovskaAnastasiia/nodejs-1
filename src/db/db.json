@@ -2,25 +2,21 @@
   {
     "name": "Recycled Steel Ball",
     "price": "488.99",
-    "category": "Grocery",
-    "description": "Savor the savory essence in our Table, designed for amused culinary adventures"
+    "category": "Grocery"
   },
   {
     "name": "Gorgeous Steel Computer",
     "price": "814.79",
-    "category": "Books",
-    "description": "Handmade Fish designed with Marble for lucky performance"
+    "category": "Books"
   },
   {
     "name": "Soft Silk Tuna",
     "price": "182.05",
-    "category": "Sports",
-    "description": "Discover the butterfly-like agility of our Keyboard, perfect for stiff users"
+    "category": "Sports"
   },
   {
     "name": "Frozen Metal Keyboard",
     "price": "800.55",
-    "category": "Electronics",
-    "description": "Featuring Roentgenium-enhanced technology, our Computer offers unparalleled clear-cut performance"
+    "category": "Electronics"
   }
 ]
